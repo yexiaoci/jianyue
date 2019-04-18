@@ -1,0 +1,15 @@
+
+.list-item{
+	height: 50px;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 5px;
+}
+.nav{
+	height: 50px;
+	border-bottom: 1px solid #eee;
+}
+.green-btn{
+	margin-top: 10px;
+}
+
+
